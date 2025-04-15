@@ -70,9 +70,9 @@ header {
 
 .top-content {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    gap: 45px;
+    padding: 0 200px;
 }
 
 .top {
