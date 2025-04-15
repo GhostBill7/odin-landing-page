@@ -78,4 +78,93 @@ header {
 .top {
     background-color: #1f2937;
     padding-bottom: 90px;
+    margin-bottom: 40px;
+}
+
+.demonslayers {
+    object-fit: cover;
+    object-position: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.imgae-and-subtexts-container {
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+
+}
+
+.demonslayer-subtext {
+    width: 140px;
+    text-align: center;
+    margin: auto;
+}
+
+.info-title {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.middle-top {
+    margin-bottom: 90px;
+}
+
+.middle-middle {
+    display: flex;
+    justify-content: center;
+    background-color: #e5e7eb;
+    padding: 90px;
+    
+}
+
+.middle-quote {
+    font-size: 36px;
+    color: #1f2937;
+    width: 780px;
+    font-style: italic;
+}
+
+.middle-quote-name {
+    margin-left: 630px;
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.middle-bottom {
+    display: flex;
+    justify-content: center;
+    padding: 90px;
+}
+
+.middle-bottom-container {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    padding: 35px 75px;
+    border-radius: 7px;
+
+}
+
+.call-to-action {
+    font-weight: 900;
+}
+
+.call-to-action-sign-up {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border: 2px solid #e5e7eb;
+    border-radius: 4px;
+    font-weight: 900;
+    padding: 4px 15px;
+}
+
+.middle-bottom-text-container {
+    font-size: 24px;
 }
