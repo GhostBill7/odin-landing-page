@@ -18,6 +18,7 @@ header {
 
 .header-logo {
     font-size: 24px;
+    font-weight: 900;
     display: flex;
     align-items: center;
     padding-left: 200px;
